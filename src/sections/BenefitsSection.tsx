@@ -104,7 +104,7 @@ export function BenefitsSection() {
             <span className="text-sm text-gray-300">La solución perfecta</span>
           </div>
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-6">
-            Tu menú, <span className="gradient-text">reimaginado</span>
+            Tu menú, <span className="gradient-text">digitalizado</span>
           </h2>
           <p className="text-lg text-gray-400 max-w-2xl mx-auto">
             Una experiencia digital que impresionará a tus clientes y simplificará tu operación
