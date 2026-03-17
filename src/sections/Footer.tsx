@@ -98,7 +98,7 @@ export function Footer() {
           </p>
           <p className="text-gray-500 text-sm flex items-center gap-1">
             Hecho con <Heart className="w-4 h-4 text-red-400 fill-red-400" /> por{' '}
-            <a href="https://www.instagram.com/concodigoart/" target="_blank" rel="noopener noreferrer" className="text-orange-400 hover:text-orange-300 transition-colors">conCódigoART</a>
+            <a href="https://www.concodigoart.com/" target="_blank" rel="noopener noreferrer" className="text-orange-400 hover:text-orange-300 transition-colors">conCódigoART</a>
           </p>
         </div>
       </div>
