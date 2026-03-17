@@ -99,7 +99,7 @@ export function CTASection() {
               </a>
 
               <a 
-                href="mailto:concodigoart@gmail.com"
+                href="mailto:info@concodigoart.com"
                 className="block"
               >
                 <Button 
